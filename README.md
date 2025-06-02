@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on [Neo](https://github.com/Duongsuny/Neo)
 
-- 🌱 I’m currently learning **Tailwind, Golang, Flutter, ReactJS**
+- 🌱 I’m currently learning **Tailwind, Flutter, ReactJS**
 
 - 📫 How to reach me **lequyduong1822@gmail.com**
-
-- ⚡ Fun fact **I skate, I**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
